@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Free Software Impacting The IT Industry'
-copyright = u'2013 CC-BY-SA-NC-ND-3.0, Toni Müller <toni.mueller@oeko.net>'
+copyright = u'2013 CC-BY-NC-SA-3.0, Toni Müller <toni.mueller@oeko.net>'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
